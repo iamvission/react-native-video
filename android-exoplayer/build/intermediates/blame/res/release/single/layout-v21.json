@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp.64/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/35800e3bd1ce62a2a4925b3acc5ed907/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp.64/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/35800e3bd1ce62a2a4925b3acc5ed907/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp.64/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/35800e3bd1ce62a2a4925b3acc5ed907/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp.64/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/35800e3bd1ce62a2a4925b3acc5ed907/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
