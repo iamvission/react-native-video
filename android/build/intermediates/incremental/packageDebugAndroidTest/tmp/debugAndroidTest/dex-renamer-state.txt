@@ -1,0 +1,10 @@
+#Thu Aug 15 11:35:18 AEST 2024
+base.2=/Users/raj/DEV/PRODUCTION/REACT APP/NEW/XTV_STB_DEV_13.0.32/node_modules/react-native-video/android/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/classes_0.dex
+path.2=classes_0.dex
+base.1=/Users/raj/DEV/PRODUCTION/REACT APP/NEW/XTV_STB_DEV_13.0.32/node_modules/react-native-video/android/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+base.0=/Users/raj/DEV/PRODUCTION/REACT APP/NEW/XTV_STB_DEV_13.0.32/node_modules/react-native-video/android/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

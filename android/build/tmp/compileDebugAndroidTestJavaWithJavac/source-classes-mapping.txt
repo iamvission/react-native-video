@@ -1,0 +1,2 @@
+com/brentvatne/react/test/BuildConfig.java
+ com.brentvatne.react.test.BuildConfig

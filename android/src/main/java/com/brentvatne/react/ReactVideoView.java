@@ -18,8 +18,8 @@ import android.view.Window;
 import android.webkit.CookieManager;
 import android.widget.MediaController;
 
-import com.android.vending.expansion.zipfile.APKExpansionSupport;
-import com.android.vending.expansion.zipfile.ZipResourceFile;
+import com.android.vending.expansion.zipfile.APKExpansionSupportx;
+import com.android.vending.expansion.zipfile.ZipResourceFilex;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.LifecycleEventListener;
 import com.facebook.react.bridge.ReadableMap;
@@ -306,11 +306,11 @@ public class ReactVideoView extends ScalableVideoView implements
                     setDataSource(uriString);
                 }
             } else {
-                ZipResourceFile expansionFile= null;
+                ZipResourceFilex expansionFile= null;
                 AssetFileDescriptor fd= null;
                 if(mMainVer>0) {
                     try {
-                        expansionFile = APKExpansionSupport.getAPKExpansionZipFile(mThemedReactContext, mMainVer, mPatchVer);
+                        expansionFile = APKExpansionSupportx.getAPKExpansionZipFile(mThemedReactContext, mMainVer, mPatchVer);
                         fd = expansionFile.getAssetFileDescriptor(uriString.replace(".mp4","") + ".mp4");
                     } catch (IOException e) {
                         e.printStackTrace();
